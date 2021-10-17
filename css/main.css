@@ -75,3 +75,9 @@ body {
     padding: 0 50px;
 
 }
+
+/***** CONTACT SECTION *****/
+
+#contact p{
+    background-color: #EBEBEB
+}
