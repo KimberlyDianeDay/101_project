@@ -78,6 +78,15 @@ body {
 
 /***** CONTACT SECTION *****/
 
-#contact p{
-    background-color: #EBEBEB
+#contact{
+    background-color: #EBEBEB;
+}
+
+#contact .full-width{
+    padding: 110px 0;
+}
+
+#contact img#contact-img {
+    margin-left: 25px;
+    border: 12px solid #ffffff;
 }
