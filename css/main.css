@@ -86,7 +86,57 @@ body {
     padding: 110px 0;
 }
 
-#contact img#contact-img {
+#contact #contact-image {
     margin-left: 25px;
     border: 12px solid #ffffff;
+}
+
+#contact h2, #contact #email-header, #contact #socialmedia-header, #contact ul {
+    padding-left: 115px;
+}
+#contact #envelope {
+    padding: 0 10px 0 115px;
+}
+
+#contact h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    line-height: 44px;
+}
+#contact #email-header{
+    font-family: 'Source Sans Pro';
+    font-size: 32px; 
+    font-weight: 100; 
+    line-height: 44px;
+    margin: -30px 0 5px 0;
+}
+
+#contact #socialmedia-header {
+    font-weight: bold;
+    font-size: 32px
+    line-height: 44px;
+    margin: 40px 0 0 0;
+}
+#contact a {
+    text-decoration: none; 
+    color: #2B2B2B;
+    font-weight: normal;
+    font-size: 29px;
+}
+
+#contact ul {
+    list-style: none;
+}
+#contact ul li {
+     display: inline-block;
+}
+#contact ul img {
+    padding-right: 48px;
+}
+
+#contact #email-address {
+    font-family: 'Source Sans Pro';
+    font-weight: bold;
+    color: #C49075;
+    font-size: 28px;
 }
