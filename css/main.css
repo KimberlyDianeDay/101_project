@@ -39,7 +39,7 @@ header h1 {
 
 header h2 {
     width: 975px; 
-    clear: left;
+    clear: both;
     font-family: 'Lora', Serif;
     font-size: 72px;
     line-height: 80px;
